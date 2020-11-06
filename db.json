@@ -1,8 +1,16 @@
 {
-    "Email": [
-        { "address": "galih.asmarandaru@gmail.com",
-          "subject": "Test"
-        },
-        { "address": "jessica.ayunditya@gmail.com" }
-    ]
+    "Data": {
+        "response": {
+            "email": [
+                { 
+                    "address": "galih.asmarandaru@gmail.com",
+                    "subject": "Test 1"
+                },
+                { 
+                    "address": "jessica.ayunditya@gmail.com",
+                    "subject": "Test 2" 
+                }
+            ]
+        }
+    }
 }
