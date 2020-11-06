@@ -3,12 +3,12 @@
         "response": {
             "emails": [
                 { 
-                    "profile_image": "https://drive.google.com/file/d/0B9ozP13VMpmJemlkYnZ6a1RHMkE/view?usp=sharing",
+                    "profile_image": "https://iosacademy.io/assets/images/brand/icon.jpg",
                     "address": "galih.asmarandaru@gmail.com",
                     "subject": "Test 1"
                 },
                 { 
-                    "profile_image": "https://drive.google.com/file/d/0B9ozP13VMpmJemlkYnZ6a1RHMkE/view?usp=sharing",
+                    "profile_image": "https://iosacademy.io/assets/images/brand/icon.jpg",
                     "address": "jessica.ayunditya@gmail.com",
                     "subject": "Test 2" 
                 }
