@@ -1,6 +1,8 @@
 {
     "Email": [
-        { "address": "galih.asmarandaru@gmail.com" },
+        { "address": "galih.asmarandaru@gmail.com",
+          "subject": "Test"
+        },
         { "address": "jessica.ayunditya@gmail.com" }
     ]
 }
