@@ -1,7 +1,7 @@
 {
     "Data": {
         "response": {
-            "email": [
+            "emails": [
                 { 
                     "address": "galih.asmarandaru@gmail.com",
                     "subject": "Test 1"
