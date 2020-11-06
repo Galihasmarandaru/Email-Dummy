@@ -1,3 +1,6 @@
 {
-    "nama": "Budi"
+    "Email": [
+        { "address": "galih.asmarandaru@gmail.com" },
+        { "address": "jessica.ayunditya@gmail.com" }
+    ]
 }
