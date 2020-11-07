@@ -6,7 +6,7 @@
                     "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
                     "address": "galih.asmarandaru@gmail.com",
                     "subject": "Test 1",
-                    "message": "<ol><ul>Hello</ul></ol>"
+                    "message": "<ol><li>Hello</li></ol>"
                 },
                 { 
                     "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
