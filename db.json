@@ -6,12 +6,12 @@
                     "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
                     "address": "galih.asmarandaru@gmail.com",
                     "subject": "Test 1",
-                    "message": "<h1>Hello</h1>"
+                    "message": "Hello"
                 },
                 { 
                     "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
                     "address": "jessica.ayunditya@gmail.com",
-                    "message": "<h3>Hello</h3>" 
+                    "message": "Hello" 
                 }
             ]
         }
