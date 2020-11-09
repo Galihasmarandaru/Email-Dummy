@@ -5,14 +5,16 @@
             "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
             "address": "galih.asmarandaru@gmail.com",
             "subject": "Test 1",
-            "message": "<ul><li>Hello</li></ul>"
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li></ul></p>"
         },
         { 
             "id": 2,
             "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
             "address": "jessica.ayunditya@gmail.com",
             "subject": "Test 2",
-            "message": "<h3>Hello</h3>" 
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li></ul></p>"
         }
     ]
 }
