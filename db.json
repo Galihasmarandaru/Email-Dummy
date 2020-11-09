@@ -14,7 +14,7 @@
             "address": "jessica.ayunditya@gmail.com",
             "subject": "Test 2",
             "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
-            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li></ul></p>"
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
         }
     ]
 }
