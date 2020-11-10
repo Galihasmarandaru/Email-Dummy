@@ -2,8 +2,8 @@
     "Data": [
         {
             "id": 1,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
-            "address": "galih.asmarandaru@gmail.com",
+            "profile_image": "https://i.ibb.co/0B4cs3V/843013-200.png",
+            "address": "company.asmarandaru@gmail.com",
             "subject": "Subject 1",
             "status": "read",
             "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
@@ -11,7 +11,7 @@
         },
         { 
             "id": 2,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "ayunditya@gmail.com",
             "subject": "Subject 2",
             "status": "read",
@@ -20,7 +20,7 @@
         },
         { 
             "id": 3,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "john@gmail.com",
             "subject": "Subject 3",
             "status": "unread",
@@ -29,7 +29,7 @@
         },
         { 
             "id": 4,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "josh@gmail.com",
             "subject": "Subject 4",
             "status": "read",
@@ -38,7 +38,7 @@
         },
         { 
             "id": 5,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "andi@gmail.com",
             "subject": "Subject 5",
             "status": "read",
@@ -47,7 +47,7 @@
         },
         { 
             "id": 6,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "mark@gmail.com",
             "subject": "Subject 6",
             "status": "read",
@@ -56,7 +56,7 @@
         },
         { 
             "id": 7,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "sam@gmail.com",
             "subject": "Subject 7",
             "status": "read",
@@ -65,7 +65,7 @@
         },
         { 
             "id": 8,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "rudi@gmail.com",
             "subject": "Subject 8",
             "status": "read",
@@ -74,7 +74,7 @@
         },
         { 
             "id": 9,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "budi@gmail.com",
             "subject": "Subject 9",
             "status": "read",
@@ -83,7 +83,7 @@
         },
         { 
             "id": 10,
-            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "profile_image": "https://i.ibb.co/SnydPT9/unnamed.png",
             "address": "fred@gmail.com",
             "subject": "Subject 10",
             "status": "read",
