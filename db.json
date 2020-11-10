@@ -4,15 +4,89 @@
             "id": 1,
             "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
             "address": "galih.asmarandaru@gmail.com",
-            "subject": "Test 1",
+            "subject": "Subject 1",
+            "status": "read",
             "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
             "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li></ul></p>"
         },
         { 
             "id": 2,
             "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
-            "address": "jessica.ayunditya@gmail.com",
-            "subject": "Test 2",
+            "address": "ayunditya@gmail.com",
+            "subject": "Subject 2",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 3,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "john@gmail.com",
+            "subject": "Subject 3",
+            "status": "unread",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 4,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "josh@gmail.com",
+            "subject": "Subject 4",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 5,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "andi@gmail.com",
+            "subject": "Subject 5",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 6,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "mark@gmail.com",
+            "subject": "Subject 6",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 7,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "sam@gmail.com",
+            "subject": "Subject 7",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 8,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "rudi@gmail.com",
+            "subject": "Subject 8",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 9,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "budi@gmail.com",
+            "subject": "Subject 9",
+            "status": "read",
+            "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
+            "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
+        },
+        { 
+            "id": 10,
+            "profile_image": "https://i.ibb.co/XskFtvL/whyus01.png",
+            "address": "fred@gmail.com",
+            "subject": "Subject 10",
+            "status": "read",
             "headline": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's...",
             "message": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <ul><li>First</li><li>Second</li><li>Third</li></ul></p>"
         }
